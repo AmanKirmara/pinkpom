@@ -19,5 +19,9 @@
         "path": "./themes/pinkpom-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmanKirmara/pinkpom.git"
+}
 }
