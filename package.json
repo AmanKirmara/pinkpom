@@ -1,0 +1,21 @@
+{
+  "name": "pinkpom",
+  "displayName": "pinkpom",
+  "description": "PinkPom is a vibrant and aesthetically pleasing Visual Studio Code theme designed with shades of pink and complementary colors. This theme offers a soothing and stylish environment for developers who appreciate a soft and calming color palette. Enhance your coding experience with PinkPom's thoughtfully curated colors that highlight code syntax and UI elements, making it easier to focus on your work while adding a touch of elegance to your coding setup",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pinkpom",
+        "uiTheme": "vs",
+        "path": "./themes/pinkpom-color-theme.json"
+      }
+    ]
+  }
+}
